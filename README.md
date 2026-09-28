@@ -96,4 +96,4 @@ An interactive Power BI analytics dashboard designed for **SS Finance** to monit
 
 ### Granular Transaction Ledger View
 
-![Financial Transactions Ledger](https://github.com/your-username/financial-analysis-powerbi/assets/transactions_view.png)
+![Financial Transactions Ledger](https://github.com/samadhanshinde1007-dev/Financial-Analysis-Project/blob/main/Transactions%20Snapshot.png)
