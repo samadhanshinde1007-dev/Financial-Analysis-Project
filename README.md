@@ -92,7 +92,7 @@ An interactive Power BI analytics dashboard designed for **SS Finance** to monit
 
 ### Executive Overview & Financial KPIs
 
-![Financial Analysis Overview](https://github.com/your-username/financial-analysis-powerbi/assets/overview_analysis.png)
+![Financial Analysis Overview](https://github.com/samadhanshinde1007-dev/Financial-Analysis-Project/blob/main/Overview%20Analysis%20Snapshot.png)
 
 ### Granular Transaction Ledger View
 
